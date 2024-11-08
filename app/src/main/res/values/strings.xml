@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="setting_ab_alarm">Установить будильник!</string>
+    <string name="stop_alarm">Выключить будильник</string>
+    <string name="text_alarm">Подъем!</string>
+</resources>
